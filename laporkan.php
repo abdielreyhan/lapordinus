@@ -10,6 +10,12 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Cube &mdash; Free Website Template, Free HTML5 Template by gettemplates.co</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- style -->
+
+<link rel="stylesheet" type="text/css" href="style/vendor/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="style/css/util.css">
+	<link rel="stylesheet" type="text/css" href="style/css/main.css">
+
 
 	<link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,700" rel="stylesheet">
 	
@@ -71,8 +77,7 @@
 				
 			</div>
 		</nav>
-
-		<div id="gtco-header" class="gtco-cover" role="banner">
+<div class="container-login100" style="background-image: url('images/udinus.jpg');">
 			<div class="gtco-container">
 				<div class="row">
 					<form action="post">
@@ -142,10 +147,10 @@
 					</form>
 				</div>
 			</div>
-		</div>
+		
 
 
-	
+	</div>
 
 	</div>
 

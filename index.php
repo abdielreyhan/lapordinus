@@ -34,12 +34,12 @@
 						Silahkan Login Sebagai
 					</span>
 					<div class="container-login100-form-btn p-t-10">
-						<a class="login100-form-btn" href="loginpeg.html">
+						<a class="login100-form-btn" href="loginpeg.php">
 							Operator/Dosen
 						</a>
 					</div>
 					<div class="container-login100-form-btn p-t-10">
-						<a class="login100-form-btn" href="loginmah.html">
+						<a class="login100-form-btn" href="loginmah.php">
 							Mahasiswa
 						</a>
 					</div>
