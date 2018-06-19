@@ -8,7 +8,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Cube &mdash; Free Website Template, Free HTML5 Template by gettemplates.co</title>
+	<title>E-Ladin | Aduan</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,700" rel="stylesheet">
@@ -29,39 +29,31 @@
 	<!-- Owl Carousel  -->
 	<link rel="stylesheet" href="style2/css/owl.carousel.min.css">
 	<link rel="stylesheet" href="style2/css/owl.theme.default.min.css">
+	
 
 	<!-- Theme style  -->
 	<link rel="stylesheet" href="style2/css/style.css">
 
 	<!-- Modernizr JS -->
 	<script src="style2/js/modernizr-2.6.2.min.js"></script>
-	<!-- FOR IE9 below -->
-	<!--[if lt IE 9]>
-	<script src="js/respond.min.js"></script>
-	<![endif]-->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 	</head>
 	<body>
-		
-	<div class="gtco-loader"></div>
-	
 	<div id="page">
 
 		<nav class="gtco-nav" role="navigation">
-			<div class="gtco-container">
+			<div class="gtco-container2">
 				
 				<div class="row">
 					<div class="col-sm-2 col-xs-12">
 						<div id="gtco-logo"><a href="index.html"><img src="images/2.jpg" alt="Free HTML5 Website Template by GetTemplates.co"></a></div>
 					</div>
 					<div class="col-xs-10 text-right menu-1">
-						<ul>
-							
-							
-							<li class="has-dropdown">
-								<a href="#">admin</a>
-								<ul class="dropdown">
-									<li><a href="#">Home</a></li>
+						<ul id="menu">
+							<li>ADMIN<i class="fa fa-street-view"></i>
+								<ul>
+									<li><a href="#">Laporkan</a></li>
 									<li><a href="#">LogOut</a></li>
 								</ul>
 							</li>
@@ -126,19 +118,12 @@
 						</div>
 
 			                <div class="col-md-12 col-md-offset-0 text-left">
-			                  <div class="box-header">
-			                    <h3 class="box-title">Laporan</h3>
-			                    <!-- tools box -->
-			                    <div class="pull-right box-tools">
-			                    </div>
-			                    <!-- /. tools -->
-			                  </div>
-			                  <!-- /.box-header -->
-			                  <div class="box-body pad">
-			                      <textarea name="deskripsi"  class="textarea" placeholder="Kuy LAPOR" style="width: 100%; height: 200px; font-size: 14px; line-height: 18px; border: 1px solid #dddddd; padding: 10px;"></textarea>
-			                  </div>
+			                    <h3>Laporan</h3>
+			                      <textarea name="deskripsi"  class="ckeditor" id="ckeditor"></textarea>
 			              </div>
+			             <div class="col-md-6 col-md-offset-0 text-left" style="padding-top: 7px" >
 			               <button type="submit" class="btn btn-danger">Send</button>
+			           	</div>
 					</form>
 				</div>
 			</div>
@@ -168,28 +153,7 @@
 	<script src="style2/js/magnific-popup-options.js"></script>
 	<!-- Main -->
 	<script src="style2/js/main.js"></script>
-	<script src="<?php echo base_url('asset2/ckeditor/ckeditor.js');?>"></script>
-<script src="<?php echo base_url('asset2/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js');?>"></script>
-<script>
-  $(function () {
-    // Replace the <textarea id="editor1"> with a CKEditor
-    // instance, using default configuration.
-    ClassicEditor
-      .create(document.querySelector('#CKEditor'))
-      .then(function (ckeditor) {
-        // The editor instance
-      })
-      .catch(function (error) {
-        console.error(error)
-      })
-
-    // bootstrap WYSIHTML5 - text editor
-
-    $('.textarea').wysihtml5({
-      toolbar: { fa: true }
-    })
-  })
-</script>
+	<script type="text/javascript" src="style2/ckeditor/ckeditor.js"></script>
 	</body>
 </html>
 
