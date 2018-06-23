@@ -68,86 +68,152 @@
 				<table id="myTable" class="table table-striped">  
         <thead>  
           <tr>  
-            <th>ENO</th>  
-            <th>EMPName</th>  
-            <th>Country</th>  
-            <th>Salary</th>  
+            <th>NO</th>  
+            <th>Nama</th>
+            <th>NIM</th>  
+            <th>Gedung</th>
+            <th>Lantai</th>
+            <th>Ruang</th>  
+            <th>Jenis</th>
+            <th>Laporan</th>
+            <th>Action</th>
           </tr>  
         </thead>  
         <tbody>  
           <tr>  
             <td>001</td>  
             <td>Anusha</td>  
-            <td>India</td>  
-            <td>10000</td>  
+            <td>A11.012</td>  
+            <td>C</td>
+            <td>2</td>  
+            <td>2.4</td>  
+            <td>Kehilangan</td>  
+            <td>Jaket</td>
+            <td><a href="#" class="btn btn-info" role="button">Tindak</a></td>
           </tr>  
           <tr>  
             <td>002</td>  
             <td>Charles</td>  
-            <td>United Kingdom</td>  
-            <td>28000</td>  
+            <td>A11.006</td>  
+            <td>D</td>
+            <td>3</td>  
+            <td>3.3</td>  
+            <td>Kehilangan</td>  
+            <td>Jaket</td>
+            <td><a href="#" class="btn btn-info" role="button">Tindak</a></td>  
           </tr>  
           <tr>  
             <td>003</td>  
             <td>Sravani</td>  
-            <td>Australia</td>  
-            <td>7000</td>  
+            <td>A11.045</td>  
+            <td>H</td>
+            <td>3</td>  
+            <td>3.9</td>  
+            <td>Kehilangan</td>  
+            <td>Jaket</td> 
+            <td><a href="#" class="btn btn-info" role="button">Tindak</a></td>
           </tr>  
            <tr>  
             <td>004</td>  
             <td>Amar</td>  
-            <td>India</td>  
-            <td>18000</td>  
+            <td>A11.066</td>  
+            <td>H</td>
+            <td>5</td>  
+            <td>4.3</td>  
+            <td>Kehilangan</td>  
+            <td>Jaket</td>  
+            <td><a href="#" class="btn btn-info" role="button">Tindak</a></td>
           </tr>  
           <tr>  
             <td>005</td>  
             <td>Lakshmi</td>  
-            <td>India</td>  
-            <td>12000</td>  
+            <td>A11.003</td>  
+            <td>G</td>
+            <td>2</td>  
+            <td>2.2</td>  
+            <td>Kehilangan</td>  
+            <td>Jaket</td>  
+            <td><a href="#" class="btn btn-info" role="button">Tindak</a></td>
           </tr>  
           <tr>  
             <td>006</td>  
             <td>James</td>  
-            <td>Canada</td>  
-            <td>50000</td>  
+            <td>A11.023</td>  
+            <td>H</td>
+            <td>6</td>  
+            <td>6.3</td>  
+            <td>Kehilangan</td>  
+            <td>Jaket</td>  
+            <td><a href="#" class="btn btn-info" role="button">Tindak</a></td>
           </tr>  
           
            <tr>  
             <td>007</td>  
             <td>Ronald</td>  
-            <td>US</td>  
-            <td>75000</td>  
+            <td>A11.077</td>  
+            <td>H</td>
+            <td>5</td>  
+            <td>5.11</td>  
+            <td>Kehilangan</td>  
+            <td>Jaket</td>  
+            <td><a href="#" class="btn btn-info" role="button">Tindak</a></td>
           </tr>  
           <tr>  
             <td>008</td>  
             <td>Mike</td>  
-            <td>Belgium</td>  
-            <td>100000</td>  
+            <td>A11.009</td>  
+            <td>C</td>
+            <td>4</td>  
+            <td>4.3</td>  
+            <td>Kehilangan</td>  
+            <td>Jaket</td>  
+            <td><a href="#" class="btn btn-info" role="button">Tindak</a></td>
           </tr>  
           <tr>  
             <td>009</td>  
             <td>Andrew</td>  
-            <td>Argentina</td>  
-            <td>45000</td>  
+            <td>A11.010</td>  
+            <td>D</td>
+            <td>4</td>  
+            <td>4.1</td>  
+            <td>Kehilangan</td>  
+            <td>Jaket</td>  
+            <td><a href="#" class="btn btn-info" role="button">Tindak</a></td>
           </tr>  
           
             <tr>  
             <td>010</td>  
             <td>Stephen</td>  
-            <td>Austria</td>  
-            <td>30000</td>  
+            <td>A11.078</td>  
+            <td>H</td>
+            <td>7</td>  
+            <td>7.2</td>  
+            <td>Kehilangan</td>  
+            <td>Jaket</td>  
+            <td><a href="#" class="btn btn-info" role="button">Tindak</a></td>
           </tr>  
           <tr>  
             <td>011</td>  
             <td>Sara</td>  
-            <td>China</td>  
-            <td>750000</td>  
+            <td>A11.034</td>  
+            <td>H</td>
+            <td>4</td>  
+            <td>4.5</td>  
+            <td>Kehilangan</td>  
+            <td>Jaket</td>  
+            <td><a href="#" class="btn btn-info" role="button">Tindak</a></td>
           </tr>  
           <tr>  
             <td>012</td>  
             <td>JonRoot</td>  
-            <td>Argentina</td>  
-            <td>65000</td>  
+            <td>A11.078</td>  
+            <td>B</td>
+            <td>4</td>  
+            <td>4.3</td>  
+            <td>Kehilangan</td>  
+            <td>Jaket</td>  
+            <td><a href="#" class="btn btn-info" role="button">Tindak</a></td>
+
           </tr>  
         </tbody>  
       </table>  
