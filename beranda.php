@@ -6,7 +6,6 @@
 	<title>lapordinus</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
-
 	<link href='https://fonts.googleapis.com/css?family=Work+Sans:400,300,600,400italic,700' rel='stylesheet' type='text/css'>
 	
 	<!-- Animate.css -->
@@ -41,107 +40,130 @@
 				<div class="col-xs-12 text-center">
 					<div id="fh5co-logo"><a href="index.html">LaporDinus<span>.</span></a></div>
 				</div>
-			<div class="row">
-  <div class="col-sm-9">
-    <div class="card">
-      <div class="card-body">
-        <h3 class="card-title">Laporan</h3>
-        <table id="myTable" class="table table-striped">
-        	<thead>
-        		<tr>
-		            <th>Nama</th>
-		            <th>NIM</th>  
-		            <th>Gedung</th>
-		            <th>Lantai</th>
-		            <th>Ruang</th>  
-		            <th>Jenis</th>
-		            <th>Laporan</th>
-          		</tr>  
-        	</thead>
-        	<tbody>
-        		<tr>
-        			 <td>Anusha</td>  
-			         <td>A11.012</td>  
-			         <td>C</td>
-			         <td>2</td>  
-			         <td>2.4</td>  
-			         <td>Kehilangan</td>  
-			         <td>Jaket</td>
-        		</tr>
-        		<tr>
-        			 <td>Anusha</td>  
-			         <td>A11.012</td>  
-			         <td>C</td>
-			         <td>2</td>  
-			         <td>2.4</td>  
-			         <td>Kehilangan</td>  
-			         <td>Jaket</td>
-        		</tr>
-        		<tr>
-        			 <td>Anusha</td>  
-			         <td>A11.012</td>  
-			         <td>C</td>
-			         <td>2</td>  
-			         <td>2.4</td>  
-			         <td>Kehilangan</td>  
-			         <td>Jaket</td>
-        		</tr>
-        		<tr>
-        			 <td>Anusha</td>  
-			         <td>A11.012</td>  
-			         <td>C</td>
-			         <td>2</td>  
-			         <td>2.4</td>  
-			         <td>Kehilangan</td>  
-			         <td>Jaket</td>
-        		</tr>
-        		<tr>
-        			 <td>Anusha</td>  
-			         <td>A11.012</td>  
-			         <td>C</td>
-			         <td>2</td>  
-			         <td>2.4</td>  
-			         <td>Kehilangan</td>  
-			         <td>Jaket</td>
-        		</tr>
-        		<tr>
-        			 <td>Anusha</td>  
-			         <td>A11.012</td>  
-			         <td>C</td>
-			         <td>2</td>  
-			         <td>2.4</td>  
-			         <td>Kehilangan</td>  
-			         <td>Jaket</td>
-        		</tr>
-        	</tbody>
-        </table>
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-3">
-    <div class="card">
-      <div class="card-body">
-        <h3 class="card-title">Login</h3>
-        <a href="loginmah.php" class="btn btn-primary">Mahasiswa</a><br>
-        <a href="loginpeg.php" class="btn btn-primary">Karyawan</a>
-      </div>
-    </div>
-  </div>
-</div>
-
 			</div>
 			
 		</div>
 	</nav>
 
-	<header id="fh5co-header" class="fh5co-cover" role="banner" style="background-image:url(images/img_bg_1.jpg);">
+	<header id="fh5co-header" class="fh5co-cover" role="banner" style="background-image:url(images/bg0.jpg);">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 col-md-offset-0 text-center">
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeInUp">
-							
+							<div class="row">
+							  <div class="col-sm-9">
+							    <div class="card">
+							      <div class="card-body">
+							        <h3>Laporan</h3>
+							        <table id="table" class="table table-hover">
+							        	<thead>
+							        		<tr>
+									            <th>Nama</th>
+									            <th>NIM</th>  
+									            <th>Gedung</th>
+									            <th>Lantai</th>
+									            <th>Ruang</th>  
+									            <th>Jenis</th>
+									            <th>Laporan</th>
+							          		</tr>  
+							        	</thead>
+							        	<tbody>
+							        		<tr>
+							        			 <td>Anusha</td>  
+										         <td>A11.012</td>  
+										         <td>C</td>
+										         <td>2</td>  
+										         <td>2.4</td>  
+										         <td>Kehilangan</td>  
+										         <td>Jaket</td>
+							        		</tr>
+							        		<tr>
+							        			 <td>Anusha</td>  
+										         <td>A11.012</td>  
+										         <td>C</td>
+										         <td>2</td>  
+										         <td>2.4</td>  
+										         <td>Kehilangan</td>  
+										         <td>Jaket</td>
+							        		</tr>
+							        		<tr>
+							        			 <td>Anusha</td>  
+										         <td>A11.012</td>  
+										         <td>C</td>
+										         <td>2</td>  
+										         <td>2.4</td>  
+										         <td>Kehilangan</td>  
+										         <td>Jaket</td>
+							        		</tr>
+							        		<tr>
+							        			 <td>Anusha</td>  
+										         <td>A11.012</td>  
+										         <td>C</td>
+										         <td>2</td>  
+										         <td>2.4</td>  
+										         <td>Kehilangan</td>  
+										         <td>Jaket</td>
+							        		</tr>
+							        		<tr>
+							        			 <td>Anusha</td>  
+										         <td>A11.012</td>  
+										         <td>C</td>
+										         <td>2</td>  
+										         <td>2.4</td>  
+										         <td>Kehilangan</td>  
+										         <td>Jaket</td>
+							        		</tr>
+							        		<tr>
+							        			 <td>Anusha</td>  
+										         <td>A11.012</td>  
+										         <td>C</td>
+										         <td>2</td>  
+										         <td>2.4</td>  
+										         <td>Kehilangan</td>  
+										         <td>Jaket</td>
+							        		</tr>
+							        	</tbody>
+							        </table>
+							        <div class="col-md-9 text-center">
+					<nav aria-label="Page navigation">
+					  <ul class="pagination">
+					    <li>
+					      <a href="#" aria-label="Previous">
+					        <span aria-hidden="true">&laquo;</span>
+					      </a>
+					    </li>
+					    <li class="active"><a href="#">1</a></li>
+					    <li><a href="#">2</a></li>
+					    <li><a href="#">3</a></li>
+					    <li><a href="#">4</a></li>
+					    <li><a href="#">5</a></li>
+					    <li>
+					      <a href="#" aria-label="Next">
+					        <span aria-hidden="true">&raquo;</span>
+					      </a>
+					    </li>
+					  </ul>
+					</nav>
+				</div>
+							      </div>
+							    </div>
+							  </div>
+							  <div class="col-sm-3">
+							    <div class="card">
+							      <div class="card-body">
+							        <h3>Login</h3>
+							        <div class="container-login100-form-btn p-t-10">
+										<a class="login100-form-btn" href="loginpeg.php">Operator/Dosen</a>
+									</div>
+									<div class="container-login100-form-btn p-t-10">
+										<a class="login100-form-btn" href="loginmah.php">Mahasiswa</a>
+									</div>
+							      </div>
+							    </div>
+							  </div>
+							</div>
 						</div>
 					</div>
 				</div>
