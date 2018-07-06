@@ -177,6 +177,37 @@
 	<div class="gototop js-top">
 		<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
 	</div>
+
+	<footer id="fh5co-footer" role="contentinfo">
+		<div class="container">
+			<div class="row row-pb-md">
+				<div class="col-md-4 fh5co-widget ">
+					<h3>LaporDinus.</h3>
+					<p>Fasilitas yang diberikan untuk memudahkan mahasiswa menemukan barangnya.</p>
+					<p><a href="#">Learn More</a></p>
+				</div>
+				<div class="col-md-3 col-sm-7 col-xs-8 col-md-push-1 ">
+					<ul class="fh5co-social-icons">
+							<li><a href="#"><i class="icon-twitter"></i></a></li>
+							<li><a href="#"><i class="icon-facebook"></i></a></li>
+							<li><a href="#"><i class="icon-instagram"></i></a></li>
+							<li><a href="#"><i class="icon-dribbble"></i></a></li>
+						</ul>
+				</div>
+
+				<div class="col-md-3 col-sm-7 col-xs-12 col-md-push-2 ">
+					<div class="fh5co-contact-info">
+						<h3>Contact Information</h3>
+						<ul>
+							<li class="address">207 Imam Bonjol Street, <br> Semarang 50131 Indonesia</li>
+							<li class="phone"><a href="">(+6224) 3517261</a></li>
+							<li class="email"><a href="">sekretariat@dinus.ac.id</a></li>
+							<li class="url"><a href="">udinus.ac.id</a></li>
+						</ul>
+					</div>
+				
+			</div>
+
 	
 	<!-- jQuery -->
 	<script src="asset/beranda/js/jquery.min.js"></script>
