@@ -1,71 +1,199 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<title>E-Ladin</title>
-	<meta charset="UTF-8">
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>lapordinus</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-<!--===============================================================================================-->	
-	<link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="style/vendor/bootstrap/css/bootstrap.min.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="style/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="style/fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="style/vendor/animate/animate.css">
-<!--===============================================================================================-->	
-	<link rel="stylesheet" type="text/css" href="style/vendor/css-hamburgers/hamburgers.min.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="style/vendor/select2/select2.min.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="style/css/util.css">
-	<link rel="stylesheet" type="text/css" href="style/css/main.css">
-<!--===============================================================================================-->
-</head>
-<body>
 	
-	<div class="limiter">
-		<div class="container-login100" style="background-image: url('images/udinus.jpg');">
-			<div class="wrap-login100 p-t-100 p-b-20">
-				<form class="login100-form validate-form">
+	<link href='https://fonts.googleapis.com/css?family=Work+Sans:400,300,600,400italic,700' rel='stylesheet' type='text/css'>
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="asset/beranda/css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="asset/beranda/css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="asset/beranda/css/bootstrap.css">
 
-					<span class="login100-form-title p-t-20 p-b-20">
-						Silahkan Login Sebagai
-					</span>
-					<div class="container-login100-form-btn p-t-10">
-						<a class="login100-form-btn" href="loginpeg.php">
-							Operator/Dosen
-						</a>
-					</div>
-					<div class="container-login100-form-btn p-t-10">
-						<a class="login100-form-btn" href="loginmah.php">
-							Mahasiswa
-						</a>
-					</div>
+	<!-- Magnific Popup -->
+	<link rel="stylesheet" href="asset/beranda/css/magnific-popup.css">
 
-					<div class="text-center w-full p-t-25 p-b-230">
-						<a  class="txt1">
-							Forgot Username / Password? (Hubungi PSI)
-						</a>
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="asset/beranda/css/style.css">
+
+	<!-- Modernizr JS -->
+	<script src="asset/beranda/script/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body>
+		
+	<div class="fh5co-loader"></div>
+	
+	<div id="page">
+	<nav class="fh5co-nav" role="navigation">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12 text-center">
+					<div id="fh5co-logo"><a href="index.html">LaporDinus<span>.</span></a></div>
+				</div>
+			</div>
+			
+		</div>
+	</nav>
+
+	<header id="fh5co-header" class="fh5co-cover" role="banner" style="background-image:url(images/bg0.jpg);">
+		<div class="overlay"></div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 col-md-offset-0 text-center">
+					<div class="display-t">
+						<div class="display-tc animate-box" data-animate-effect="fadeInUp">
+							<div class="row">
+							  <div class="col-sm-9">
+							    <div class="card">
+							      <div class="card-body">
+							        <h3>Laporan</h3>
+							        <table id="table" class="table table-hover">
+							        	<thead>
+							        		<tr>
+									            <th>Nama</th>
+									            <th>NIM</th>  
+									            <th>Gedung</th>
+									            <th>Lantai</th>
+									            <th>Ruang</th>  
+									            <th>Jenis</th>
+									            <th>Laporan</th>
+							          		</tr>  
+							        	</thead>
+							        	<tbody>
+							        		<tr>
+							        			 <td>Anusha</td>  
+										         <td>A11.012</td>  
+										         <td>C</td>
+										         <td>2</td>  
+										         <td>2.4</td>  
+										         <td>Kehilangan</td>  
+										         <td>Jaket</td>
+							        		</tr>
+							        		<tr>
+							        			 <td>Anusha</td>  
+										         <td>A11.012</td>  
+										         <td>C</td>
+										         <td>2</td>  
+										         <td>2.4</td>  
+										         <td>Kehilangan</td>  
+										         <td>Jaket</td>
+							        		</tr>
+							        		<tr>
+							        			 <td>Anusha</td>  
+										         <td>A11.012</td>  
+										         <td>C</td>
+										         <td>2</td>  
+										         <td>2.4</td>  
+										         <td>Kehilangan</td>  
+										         <td>Jaket</td>
+							        		</tr>
+							        		<tr>
+							        			 <td>Anusha</td>  
+										         <td>A11.012</td>  
+										         <td>C</td>
+										         <td>2</td>  
+										         <td>2.4</td>  
+										         <td>Kehilangan</td>  
+										         <td>Jaket</td>
+							        		</tr>
+							        		<tr>
+							        			 <td>Anusha</td>  
+										         <td>A11.012</td>  
+										         <td>C</td>
+										         <td>2</td>  
+										         <td>2.4</td>  
+										         <td>Kehilangan</td>  
+										         <td>Jaket</td>
+							        		</tr>
+							        		<tr>
+							        			 <td>Anusha</td>  
+										         <td>A11.012</td>  
+										         <td>C</td>
+										         <td>2</td>  
+										         <td>2.4</td>  
+										         <td>Kehilangan</td>  
+										         <td>Jaket</td>
+							        		</tr>
+							        	</tbody>
+							        </table>
+							        <div class="col-md-9 text-center">
+					<nav aria-label="Page navigation">
+					  <ul class="pagination">
+					    <li>
+					      <a href="#" aria-label="Previous">
+					        <span aria-hidden="true">&laquo;</span>
+					      </a>
+					    </li>
+					    <li class="active"><a href="#">1</a></li>
+					    <li><a href="#">2</a></li>
+					    <li><a href="#">3</a></li>
+					    <li><a href="#">4</a></li>
+					    <li><a href="#">5</a></li>
+					    <li>
+					      <a href="#" aria-label="Next">
+					        <span aria-hidden="true">&raquo;</span>
+					      </a>
+					    </li>
+					  </ul>
+					</nav>
+				</div>
+							      </div>
+							    </div>
+							  </div>
+							  <div class="col-sm-3">
+							    <div class="card">
+							      <div class="card-body">
+							        <h3>Login</h3>
+							        <div class="container-login100-form-btn p-t-10">
+										<a class="login100-form-btn" href="loginpeg.php">Operator/Dosen</a>
+									</div>
+									<div class="container-login100-form-btn p-t-10">
+										<a class="login100-form-btn" href="loginmah.php">Mahasiswa</a>
+									</div>
+							      </div>
+							    </div>
+							  </div>
+							</div>
+						</div>
 					</div>
-				</form>
+				</div>
 			</div>
 		</div>
+	</header>
+
+	
+	</div>
+
+	<div class="gototop js-top">
+		<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
 	</div>
 	
-	
+	<!-- jQuery -->
+	<script src="asset/beranda/js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="asset/beranda/js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="asset/beranda/js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="asset/beranda/js/jquery.waypoints.min.js"></script>
+	<!-- countTo -->
+	<script src="asset/beranda/js/jquery.countTo.js"></script>
+	<!-- Magnific Popup -->
+	<script src="asset/beranda/js/jquery.magnific-popup.min.js"></script>
+	<script src="asset/beranda/js/magnific-popup-options.js"></script>
+	<!-- Main -->
+	<script src="asset/beranda/js/main.js"></script>
 
-	
-<!--===============================================================================================-->	
-	<script src="style/vendor/jquery/jquery-3.2.1.min.js"></script>
-<!--===============================================================================================-->
-	<script src="style/vendor/bootstrap/js/popper.js"></script>
-	<script src="style/vendor/bootstrap/js/bootstrap.min.js"></script>
-<!--===============================================================================================-->
-	<script src="style/vendor/select2/select2.min.js"></script>
-<!--===============================================================================================-->
-	<script src="style/js/main.js"></script>
-
-</body>
+	</body>
 </html>
+
