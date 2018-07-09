@@ -19,8 +19,8 @@ body {
   background: #fff;
 }
 .table{
-  color: white;
-  text-shadow: 1px 1px black;
+  color: black;
+  /*text-shadow: 1px 1px grey;*/
 }
 .card{
   /*box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);*/
@@ -182,7 +182,6 @@ body {
     padding-right: 15px;
   }
 }
-
 #page {
   position: relative;
   overflow-x: hidden;
@@ -469,7 +468,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-cover .display-t,
 .fh5co-cover .display-tc {
   z-index: 9;
-  height: 900px;
+  height: 700px;
   display: table;
   width: 100%;
 }

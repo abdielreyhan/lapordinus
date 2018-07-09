@@ -53,8 +53,9 @@
 						<ul id="menu">
 							<li>ADMIN<i class="fa fa-street-view"></i>
 								<ul>
-									<li><a href="#">Laporkan</a></li>
-									<li><a href="#">LogOut</a></li>
+									<li><a href="laporan.php">Laporan</a></li>
+									<li><a href="riwayat.php">Riwayat</a></li>
+									<li><a href="index.php">LogOut</a></li>
 								</ul>
 							</li>
 						</ul>

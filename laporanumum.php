@@ -48,7 +48,6 @@
 					</div>
 					<div class="col-xs-10 text-right menu-1">
 						<ul id="menu">
-
 							<li>ADMIN<i class="fa fa-street-view"></i>
 								<ul>
 									<li><a href="aduan.php">Laporkan</a></li>
@@ -56,7 +55,6 @@
 									<li><a href="index.php">LogOut</a></li>
 								</ul>
 							</li>
-
 						</ul>
 					</div>
 					
@@ -93,7 +91,7 @@
             <td>Kehilangan</td>  
             <td>Jaket</td>
             <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>
-            <a type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModal1">Hapus</a></td>
+            </td>
           </tr>  
           <tr>  
             <td>002</td>  
@@ -104,7 +102,7 @@
             <td>3.3</td>  
             <td>Kehilangan</td>  
             <td>Jaket</td>
-            <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>  <a type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModal1">Hapus</a></td>  
+            <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>  </td>  
           </tr>  
           <tr>  
             <td>003</td>  
@@ -116,7 +114,7 @@
             <td>Kehilangan</td>  
             <td>Jaket</td> 
             <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>
-                 <a type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModal1">Hapus</a></td>
+                </td>
           </tr>  
            <tr>  
             <td>004</td>  
@@ -128,7 +126,7 @@
             <td>Kehilangan</td>  
             <td>Jaket</td>  
             <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>
-                 <a type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModal1">Hapus</a></td>
+                 </td>
           </tr>  
           <tr>  
             <td>005</td>  
@@ -140,7 +138,7 @@
             <td>Kehilangan</td>  
             <td>Jaket</td>  
             <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>
-                 <a type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModal1">Hapus</a></td>
+                </td>
           </tr>  
           <tr>  
             <td>006</td>  
@@ -152,7 +150,7 @@
             <td>Kehilangan</td>  
             <td>Jaket</td>  
             <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>
-                 <a type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModal1">Hapus</a></td>
+                </td>
           </tr>  
           
            <tr>  
@@ -165,7 +163,7 @@
             <td>Kehilangan</td>  
             <td>Jaket</td>  
             <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>
-                 <a type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModal1">Hapus</a></td>
+                </td>
           </tr>  
           <tr>  
             <td>008</td>  
@@ -177,7 +175,7 @@
             <td>Kehilangan</td>  
             <td>Jaket</td>  
             <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>
-                 <a type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModal1">Hapus</a></td>
+                </td>
           </tr>  
           <tr>  
             <td>009</td>  
@@ -189,7 +187,7 @@
             <td>Kehilangan</td>  
             <td>Jaket</td>  
             <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>
-                 <a type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModal1">Hapus</a></td>
+                 </td>
           </tr>  
           
             <tr>  
@@ -202,7 +200,7 @@
             <td>Kehilangan</td>  
             <td>Jaket</td>  
             <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>
-                 <a type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModal1">Hapus</a></td>
+                 </td>
           </tr>  
           <tr>  
             <td>011</td>  
@@ -214,7 +212,7 @@
             <td>Kehilangan</td>  
             <td>Jaket</td>  
             <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>
-                 <a type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModal1">Hapus</a></td>
+                </td>
           </tr>  
           <tr>  
             <td>012</td>  
@@ -226,7 +224,7 @@
             <td>Kehilangan</td>  
             <td>Jaket</td>  
             <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>
-                 <a type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModal1">Hapus</a></td>
+                 </td>
 
           </tr>  
         </tbody>  

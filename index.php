@@ -31,7 +31,7 @@
 	</head>
 	<body>
 		
-	<div class="fh5co-loader"></div>
+	<!-- <div class="fh5co-loader"></div> -->
 	
 	<div id="page">
 	<nav class="fh5co-nav" role="navigation">
@@ -153,7 +153,7 @@
 							  <div class="col-sm-2 col-md-push-1">
 							    <div class="card">
 							      <div class="card-body">
-							        <h3>Login</h3>
+							        <h3><b>Login</b></h3>
 							        <div class="container-login100-form-btn p-t-10">
 										<a class="login100-form-btn" href="loginpeg.php">Operator/Dosen</a>
 									</div>
@@ -191,7 +191,7 @@
 							<li><a href="#"><i class="icon-twitter"></i></a></li>
 							<li><a href="#"><i class="icon-facebook"></i></a></li>
 							<li><a href="#"><i class="icon-instagram"></i></a></li>
-							<li><a href="#"><i class="icon-dribbble"></i></a></li>
+							<li><a href="#"><i class="icon-google"></i></a></li>
 						</ul>
 				</div>
 
