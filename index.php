@@ -56,7 +56,7 @@
 							  <div class="col-sm-9">
 							    <div class="card">
 							      <div class="card-body">
-							        <h3>Laporan</h3>
+							        <h3><b>Laporan</b></h3>
 							        <table id="table" class="table table-hover">
 							        	<thead>
 							        		<tr>
@@ -150,7 +150,7 @@
 							      </div>
 							    </div>
 							  </div>
-							  <div class="col-sm-3">
+							  <div class="col-sm-2 col-md-push-1">
 							    <div class="card">
 							      <div class="card-body">
 							        <h3>Login</h3>

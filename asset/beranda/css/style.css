@@ -18,7 +18,14 @@ body {
   color: #828282;
   background: #fff;
 }
-
+.table{
+  color: white;
+  text-shadow: 1px 1px black;
+}
+.card{
+  /*box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);*/
+  /*transition: 0.3s;*/
+}
 .container-login100 {
   width: 100%;  
   min-height: 100vh;

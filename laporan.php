@@ -76,7 +76,7 @@
             <th>Ruang</th>  
             <th>Jenis</th>
             <th>Laporan</th>
-            <th>Action</th>
+            <th colspan="2">Action</th>
           </tr>  
         </thead>  
         <tbody>  
@@ -89,7 +89,8 @@
             <td>2.4</td>  
             <td>Kehilangan</td>  
             <td>Jaket</td>
-            <td><a href="#" class="btn btn-info" role="button">Tindak</a></td>
+            <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>
+            <a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal1">Hapus</a></td>
           </tr>  
           <tr>  
             <td>002</td>  
@@ -100,7 +101,7 @@
             <td>3.3</td>  
             <td>Kehilangan</td>  
             <td>Jaket</td>
-            <td><a href="#" class="btn btn-info" role="button">Tindak</a></td>  
+            <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>  <a type="button" class="btn btn-danger" href="#">Hapus</a></td>  
           </tr>  
           <tr>  
             <td>003</td>  
@@ -111,7 +112,8 @@
             <td>3.9</td>  
             <td>Kehilangan</td>  
             <td>Jaket</td> 
-            <td><a href="#" class="btn btn-info" role="button">Tindak</a></td>
+            <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>
+                 <a type="button" class="btn btn-danger" href="#">Hapus</a></td>
           </tr>  
            <tr>  
             <td>004</td>  
@@ -122,7 +124,8 @@
             <td>4.3</td>  
             <td>Kehilangan</td>  
             <td>Jaket</td>  
-            <td><a href="#" class="btn btn-info" role="button">Tindak</a></td>
+            <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>
+                 <a type="button" class="btn btn-danger" href="#">Hapus</a></td>
           </tr>  
           <tr>  
             <td>005</td>  
@@ -133,7 +136,8 @@
             <td>2.2</td>  
             <td>Kehilangan</td>  
             <td>Jaket</td>  
-            <td><a href="#" class="btn btn-info" role="button">Tindak</a></td>
+            <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>
+                 <a type="button" class="btn btn-danger" href="#">Hapus</a></td>
           </tr>  
           <tr>  
             <td>006</td>  
@@ -144,7 +148,8 @@
             <td>6.3</td>  
             <td>Kehilangan</td>  
             <td>Jaket</td>  
-            <td><a href="#" class="btn btn-info" role="button">Tindak</a></td>
+            <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>
+                 <a type="button" class="btn btn-danger" href="#">Hapus</a></td>
           </tr>  
           
            <tr>  
@@ -156,7 +161,8 @@
             <td>5.11</td>  
             <td>Kehilangan</td>  
             <td>Jaket</td>  
-            <td><a href="#" class="btn btn-info" role="button">Tindak</a></td>
+            <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>
+                 <a type="button" class="btn btn-danger" href="#">Hapus</a></td>
           </tr>  
           <tr>  
             <td>008</td>  
@@ -167,7 +173,8 @@
             <td>4.3</td>  
             <td>Kehilangan</td>  
             <td>Jaket</td>  
-            <td><a href="#" class="btn btn-info" role="button">Tindak</a></td>
+            <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>
+                 <a type="button" class="btn btn-danger" href="#">Hapus</a></td>
           </tr>  
           <tr>  
             <td>009</td>  
@@ -178,7 +185,8 @@
             <td>4.1</td>  
             <td>Kehilangan</td>  
             <td>Jaket</td>  
-            <td><a href="#" class="btn btn-info" role="button">Tindak</a></td>
+            <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>
+                 <a type="button" class="btn btn-danger" href="#">Hapus</a></td>
           </tr>  
           
             <tr>  
@@ -190,7 +198,8 @@
             <td>7.2</td>  
             <td>Kehilangan</td>  
             <td>Jaket</td>  
-            <td><a href="#" class="btn btn-info" role="button">Tindak</a></td>
+            <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>
+                 <a type="button" class="btn btn-danger" href="#">Hapus</a></td>
           </tr>  
           <tr>  
             <td>011</td>  
@@ -201,7 +210,8 @@
             <td>4.5</td>  
             <td>Kehilangan</td>  
             <td>Jaket</td>  
-            <td><a href="#" class="btn btn-info" role="button">Tindak</a></td>
+            <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>
+                 <a type="button" class="btn btn-danger" href="#">Hapus</a></td>
           </tr>  
           <tr>  
             <td>012</td>  
@@ -212,7 +222,8 @@
             <td>4.3</td>  
             <td>Kehilangan</td>  
             <td>Jaket</td>  
-            <td><a href="#" class="btn btn-info" role="button">Tindak</a></td>
+            <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Tindak</a>
+                 <a type="button" class="btn btn-danger" href="#">Hapus</a></td>
 
           </tr>  
         </tbody>  
@@ -221,7 +232,58 @@
 			</div>
 		</div>
 
-
+        <div class="gtco-container">
+            <div class="modal fade" id="myModal">
+    <div class="modal-dialog">
+      <div class="modal-content">
+      
+        <!-- Modal Header -->
+        <div class="modal-header">
+          <h4 class="modal-title">Catatan Tambahan</h4>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        
+        <!-- Modal body -->
+        <div class="modal-body">
+          <textarea name="deskripsi"  class="ckeditor" id="ckeditor"></textarea>
+        </div>
+        
+        <!-- Modal footer -->
+        <div class="modal-footer">
+             <button type="button" class="btn btn-success" data-dismiss="modal">Kirim</button>
+          <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+        </div>
+        <div class="gtco-container">
+            <div class="modal fade" id="myModal1">
+    <div class="modal-dialog">
+      <div class="modal-content">
+      
+        <!-- Modal Header -->
+        <div class="modal-header">
+          <h4 class="modal-title">Yakin Ingin Menghapus?</h4>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        
+        <!-- Modal body -->
+        <div class="modal-body">
+          <h5>Data yang dihapus tidak dapat dikembalikan kembali</h5>
+        </div>
+        
+        <!-- Modal footer -->
+        <div class="modal-footer">
+             <button type="button" class="btn btn-success" data-dismiss="modal">HAPUS</button>
+          <button type="button" class="btn btn-danger" data-dismiss="modal">BATAL</button>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+        </div>
 	
 
 	</div>
