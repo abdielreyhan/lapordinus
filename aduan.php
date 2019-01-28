@@ -69,9 +69,9 @@
 			<div class="gtco-container">
 				<div class="row">
 					<form action="post">
-						<div class="col-md-6 col-md-offset-0 text-left">
+						<div class="col-md-3 col-md-offset-0 text-left">
                                             <label>Gedung </label>
-                                            <select name="level" class="form-control col-md-6">
+                                            <select name="level" class="form-control">
                                                 <option value="A">A</option>
                                                 <option value="B">B</option>
                                                 <option value="C">C</option>
@@ -81,10 +81,10 @@
                                                 <option value="G">G</option>
                                                 <option value="H">H</option>
                                             </select>
-                                        </div>
-						<div class="col-md-6 col-md-offset-0 text-left">
+                        </div>
+						<div class="col-md-3 col-md-offset-0 text-left">
                                             <label>Lantai </label>
-                                            <select name="level" class="form-control col-md-6">
+                                            <select name="level" class="form-control">
                                                 <option value="3">3</option>
                                                 <option value="4">4</option>
                                                 <option value="5">5</option>
@@ -92,9 +92,9 @@
                                                  <option value="7">7</option>
                                             </select>
 						</div>
-						<div class="col-md-6 col-md-offset-0 text-left">
+						<div class="col-md-3 col-md-offset-0 text-left">
                                             <label>Ruang </label>
-                                            <select name="level" class="form-control col-md-6">
+                                            <select name="level" class="form-control">
                                                 <option value="3">1</option>
                                                 <option value="4">2</option>
                                                 <option value="5">3</option>
@@ -110,20 +110,20 @@
                                             </select>
 						</div>
 
-						<div class="col-md-6 col-md-offset-0 text-left">
+						<div class="col-md-3 col-md-offset-0 text-left">
                                             <label>Jenis </label>
-                                            <select name="level" class="form-control col-md-6">
+                                            <select name="level" class="form-control">
                                                 <option value="Kerusakan">Kerusakan</option>
                                                 <option value="Kehilangan">Kehilangan</option>
                                             </select>
 						</div>
 
-			                <div class="col-md-12 col-md-offset-0 text-left">
+			                <div class="col-md-12 col-md-offset-0 text-left" style="padding-top: 47px">
 			                    <h3>Laporan</h3>
 			                      <textarea name="deskripsi"  class="ckeditor" id="ckeditor"></textarea>
 			              </div>
-			             <div class="col-md-6 col-md-offset-0 text-left" style="padding-top: 7px" >
-			               <button type="submit" class="btn btn-danger">Send</button>
+			             <div class="col-md-6 col-md-offset-0 text-left" style="padding-top: 3px" >
+			               <button type="submit" class="btn btn-default">Send</button>
 			           	</div>
 					</form>
 				</div>

@@ -524,6 +524,9 @@ h1, h2, h3, h4, h5, h6, figure {
 .gtco-products .two-row {
   height: 239px;
 }
+.btn .btn-success{
+color: white;
+}
 .gtco-products .one-row {
   height: 508px;
 }

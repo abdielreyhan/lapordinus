@@ -48,7 +48,7 @@
 					</div>
 					<div class="col-xs-10 text-right menu-1">
 						<ul id="menu">
-							<li>ADMIN<i class="fa fa-street-view"></i>
+							<li>A11.2016.09375<i class="fa fa-street-view"></i>
 								<ul>
 									<li><a href="aduan.php">Laporkan</a></li>
                   <li><a href="riwayat.php">Riwayat</a></li>
@@ -91,7 +91,7 @@
             <td>2.4</td>  
             <td>Kehilangan</td>  
             <td>Jaket</td>
-            <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal1">Detail</a>
+            <td><a type="button" class="btn btn-link" data-toggle="modal" data-target="#myModal1">Detail</a>
             </td>
           </tr>  
           <tr>  
@@ -103,7 +103,7 @@
             <td>3.4</td>  
             <td>Kehilangan</td>  
             <td>Flashdisk</td>
-            <td><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Detail</a>
+            <td><a type="button" class="btn btn-link" data-toggle="modal" data-target="#myModal">Detail</a>
             </td>
           </tr>  
         </tbody>  

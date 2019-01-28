@@ -48,7 +48,7 @@
 					</div>
 					<div class="col-xs-10 text-right menu-1">
 						<ul id="menu">
-							<li>ADMIN<i class="fa fa-street-view"></i>
+							<li>A11.2016.09375<i class="fa fa-street-view"></i>
 								<ul>
 									<li><a href="aduan.php">Laporkan</a></li>
                   <li><a href="riwayat.php">Riwayat</a></li>

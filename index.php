@@ -183,7 +183,8 @@
 			<div class="row row-pb-md">
 				<div class="col-md-4 fh5co-widget ">
 					<h3>LaporDinus.</h3>
-					<p>Fasilitas yang diberikan untuk memudahkan mahasiswa menemukan barangnya.</p>
+					<p>Fasilitas yang diberikan untuk memudahkan mahasiswa menemukan barangnya dan melaporkan
+					kerusakan yang ada pada sarana belajar mengajar.</p>
 					<p><a href="#">Learn More</a></p>
 				</div>
 				<div class="col-md-3 col-sm-7 col-xs-8 col-md-push-1 ">
